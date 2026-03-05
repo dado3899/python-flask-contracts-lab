@@ -1,4 +1,4 @@
-# Lab: Contractors Lab
+# Lab: Contractors Labs
 
 ---
 
